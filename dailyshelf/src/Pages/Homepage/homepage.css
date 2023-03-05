@@ -1,0 +1,65 @@
+.main_div{
+    display: flex;
+    align-content: space-around;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.logo{
+    margin: 10px;
+}
+
+.dailyshelf{
+    background: linear-gradient(94.52deg, #F40ED3 4.92%, #0E17F4 104.56%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -ms-text-fill-color: transparent;
+
+    /* position: absolute; */
+    font-family: Pacifico;
+    /* text-align: left; */
+    font-size: 30px;
+    /* letter-spacing: 0; */
+    margin: 1px;
+}
+
+.Text{
+    font-family: Ubuntu;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 6px;
+    border: 0px;
+    width: 110px;
+    height: 35px;
+}
+
+.Text:hover{
+    background-color: #c0bbed;
+}
+
+.Text:active{
+    background-color: #f639bd;
+}
+
+.Text1{
+    font-family: Ubuntu;
+    font-size: 20px;
+    background-color: rgb(183, 56, 229);
+    border-radius: 6px;
+    border: 0px;
+    width: 110px;
+    height: 35px;
+    color: rgb(255, 255, 255);
+}
+
+.Text1:hover{
+    background-color: #c0bbed;
+}
+
+.Text1:active{
+    background-color: #f639bd;
+}

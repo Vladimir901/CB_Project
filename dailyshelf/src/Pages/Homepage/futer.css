@@ -1,0 +1,29 @@
+.futer{
+    background: linear-gradient(90.91deg, #F80CD2 0.86%, #1A86EA 100.56%);
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+
+.Title_name{
+    display: flex;
+    flex-direction: column;
+}
+
+.logo_white{
+    margin: 10px;
+}
+
+.dailyshelf1{
+    color: rgb(255, 255, 255);
+    /* position: absolute; */
+    font-family: Pacifico;
+    /* text-align: left; */
+    font-size: 30px;
+    /* letter-spacing: 0; */
+    margin: 1px;
+}
